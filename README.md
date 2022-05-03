@@ -1,4 +1,4 @@
-# Awesome Contact App
+# Google duo
 
 A contact book app built with [Flutter](https://flutter.dev) 
 
